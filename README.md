@@ -3,7 +3,7 @@ Mod 20 Homework
 
 # Instructions
 
-1. Split the Data into Training and Testing Sets
+# Split the Data into Training and Testing Sets
 - Open the starter code notebook and use it to complete the following steps:
 
 - Read the lending_data.csv data from the Resources folder into a Pandas DataFrame.
@@ -11,7 +11,7 @@ Mod 20 Homework
 -  the labels set (y) from the “loan_status” column, and then create the features (X) DataFrame from the remaining columns.
 
 
-2. Create a Logistic Regression Model with the Original Data
+# Create a Logistic Regression Model with the Original Data
 - Use your knowledge of logistic regression to complete the following steps:
 
 - Fit a logistic regression model by using the training data (X_train and y_train).
@@ -25,8 +25,8 @@ Mod 20 Homework
 - Print the classification report.
 
 - Answer the following question: How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
-
-3. Write a Credit Risk Analysis Report
+  
+# Write a Credit Risk Analysis Report
 - Write a brief report that includes a summary and analysis of the performance of the machine learning models that you used in this homework. You should write this report as the README.md file included in your GitHub repository.
 
 - Structure your report by using the report template that Starter_Code.zip includes, ensuring that it contains the following:
