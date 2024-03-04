@@ -6,6 +6,8 @@ to determine if a loan should be granted to the consumer/borrower that is applyi
 # Results 
 
    Confusion Matrix:
+
+   
    <img width="232" alt="image" src="https://github.com/RaghenM/credit-risk-classification/assets/91345190/afc58925-5ee5-498d-ab29-8b7fa7e51b12">
 
    
