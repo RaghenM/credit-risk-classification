@@ -1,12 +1,14 @@
 # Credit Risk Report 
 # Overview
 The purpose of this analysis is to use a machine learning (supervised model) with a logistic regression to classify credit worthiness of folks applying for loans. A given classification of 0 is equal to "healthy loan", and a classification of 1 is equal to "high-risk loan". This model will help the bank 
-to determine if a loan should be granted to the consumer/borrower that is applying. The dataset used to build this model is historical lending activity from a peer-to-peer lending services company. We use this data to both train and validate the model. A confusion matrix was used to determine the classification results. 
+to determine if a loan should be granted to the consumer/borrower that is applying. The dataset used to build this model is historical lending activity from a peer-to-peer lending services company. We use this data to both train and validate the model. A confusion matrix and classification report was used to determine the classification results. 
 
 # Results 
 
    Confusion Matrix:
    <img width="232" alt="image" src="https://github.com/RaghenM/credit-risk-classification/assets/91345190/afc58925-5ee5-498d-ab29-8b7fa7e51b12">
+
+   
     - 18655 true positive (occur when the model accurately predicts a positive data point.)
     - 36 false negative  (occur when the model mispredicts a negative data point.)
     - 110 false positive (occur when the model predicts a positive data point incorrectly)
